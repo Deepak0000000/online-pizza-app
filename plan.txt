@@ -24,7 +24,7 @@
             - dependancies
                 - mongoose, express-session, connect-mongo, dotenv
     - axios to send ajax request
-    - install notification library npm i noty   https://ned.im/noty/#/
+
 [+] Create login page with route
 [+] Create register page with route
 [+] Build register crud
@@ -44,3 +44,6 @@
         - dependancies socket.io
 [ ] Build project for deployment
 [ ] Deploy project on live server
+
+Admin id : admin@gmail.com
+Pass: Deep@123
